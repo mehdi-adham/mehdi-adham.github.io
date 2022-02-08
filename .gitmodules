@@ -1,0 +1,3 @@
+[submodule "qrcode-comp"]
+	path = qrcode-comp
+	url = https://github.com/mehdi-adham/qr-code-component-main.git
