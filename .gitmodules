@@ -4,3 +4,6 @@
 [submodule "order-summary-component"]
 	path = order-summary-component
 	url = https://github.com/mehdi-adham/order-summary-component-main.git
+[submodule "stats-preview-card-component"]
+	path = stats-preview-card-component
+	url = https://github.com/mehdi-adham/stats-preview-card-component-main.git
