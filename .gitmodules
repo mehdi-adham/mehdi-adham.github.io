@@ -7,3 +7,6 @@
 [submodule "stats-preview-card-component"]
 	path = stats-preview-card-component
 	url = https://github.com/mehdi-adham/stats-preview-card-component-main.git
+[submodule "profile-card-component"]
+	path = profile-card-component
+	url = https://github.com/mehdi-adham/profile-card-component-main.git
